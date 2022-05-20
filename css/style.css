@@ -1,0 +1,41 @@
+.image{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+
+h1:hover {
+    color: rgb(240, 31, 16);
+    size: 100px;
+}
+
+h2:hover{
+    color:#9C6371 ;
+    size: 50px;
+}
+
+.link{
+    padding-inline: 14.1%;
+    background-color: rgb(219, 230, 199);
+}
+
+
+.education{
+    background-color: rgb(248, 244, 244);
+
+    text-align: center;
+    width: 100%;
+    box-shadow: 10cm;
+
+}
+
+.footer{
+    
+padding-inline-start: 20%;}
+
+.social{
+       
+    padding-top: 2%;
+    padding-inline-start: 43%;
+   
+}
